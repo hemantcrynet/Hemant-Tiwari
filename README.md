@@ -27,9 +27,6 @@ I mostly work with AWS, ALM and Cloud based technologies. 🚀
 ### DevOps
   
  <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
